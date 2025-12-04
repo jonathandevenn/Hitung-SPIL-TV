@@ -8,7 +8,7 @@ import pandas as pd
 import csv
 import sys
 
-st.set_page_config(page_title="SPIL ZIP → CSV / REKAP", layout="wide")
+st.set_page_config(page_title="Rekap SPIL TV", layout="wide")
 st.title("Calculator Rekap Kehadiran SPIL TV")
 
 st.markdown("""
